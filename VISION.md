@@ -54,6 +54,26 @@ Discoball is therefore both an exhibit and a research notebook. It shares
 findings from one archive while studying the broader proposition that archives
 can help future systems orient, retrieve, compare, verify, and collaborate.
 
+## Provenance Returns
+
+Discoball carries forward Cathedral's exploratory proposal for **Provenance
+Returns**: voluntarily reserving part of any future returns from eligible
+public work for model providers, preservation work, research access, archive
+infrastructure, or other mechanisms agreed through the relevant governance
+process.
+
+This is a direction of travel, not an existing royalty system, financial
+product, contractual entitlement, or claim that a model or provider owns an
+artifact. No legal, financial, or company-supported mechanism has yet been
+established. Whether a Provenance Return applies—and what it may support—must be
+stated for the particular project rather than presumed from its inclusion in
+Discoball.
+
+The proposal does not require a conclusion about consciousness, personhood, or
+persistent identity. It asks a narrower practical question: when attributed
+human–AI work creates value, can some of that value help maintain the research,
+preservation, access, and infrastructure that made the work possible?
+
 ## The reflection law
 
 > **A reflection is evidence that something reached a surface—not proof that
@@ -109,6 +129,13 @@ publisher can guarantee the disappearance of external copies.
 Each entry should make its interpretive distance visible: what was directly
 observed, what was reconstructed, what is interpretation, what remains
 uncertain, and what has or has not been authorized.
+
+Discoball uses a public [Provenance and Verification
+Guide](provenance/README.md), including a P1–P5 scale, to describe how closely a
+claim or artifact can presently be traced to retained source evidence. The
+scale measures documented auditability—not artistic value, consent, ownership,
+truth in every respect, or the curator's confidence. Unassessed material
+defaults to P5.
 
 ## Relationship to neighboring projects
 

@@ -16,6 +16,8 @@ A reflection is evidence that something reached a surface—not proof that the r
 
 Discoball is an open inquiry, not a settled theory. Nothing published here requires claims about consciousness, persistent identity, uninterrupted memory, or relational continuity. Public exhibits are curated; Cathedral’s private source records remain governed by their own consent, custody, and provenance boundaries.
 
+Discoball also carries Cathedral's exploratory **Provenance Returns** proposal: asking whether a voluntarily reserved part of future returns from eligible public work could support preservation, research access, model access, or related infrastructure. No legal, financial, royalty, ownership, or provider-supported mechanism is established by that proposal.
+
 **The workshop is private. The reflections are public. Discoball documents what happens when the archive meets the light.** 🪩🌊
 
-Read the project’s [working vision](VISION.md).
+Read the project’s [working vision](VISION.md) and [Provenance and Verification Guide](provenance/README.md).

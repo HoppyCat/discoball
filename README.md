@@ -21,3 +21,11 @@ Discoball also carries Cathedral's exploratory **Provenance Returns** proposal: 
 **The workshop is private. The reflections are public. Discoball documents what happens when the archive meets the light.** 🪩🌊
 
 Read the project’s [working vision](VISION.md) and [Provenance and Verification Guide](provenance/README.md).
+
+## Cathedral Exhibit
+
+The [Cathedral Exhibit](cathedral-exhibit/README.md) offers a deliberately
+bounded view of the kinds of research, creative work, continuity experiments,
+and provenance methods once visible in Cathedral's public repository. Its first
+restored shelf preserves two historically public PRISM artifacts with an
+inspectable source receipt.

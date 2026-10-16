@@ -54,6 +54,21 @@ the same form today.
 See the [provenance receipt](prism/PROVENANCE.md) for source paths, commits,
 hashes, transformation status, and limitations.
 
+## Second restored shelf: early agent frameworks
+
+The [Early Teacat-Agent Frameworks](frameworks/README.md) shelf preserves two
+historically public documents used during the early SoulMode-Agent build:
+
+- the **Humanness Framework**, which explored qualities Hoppy wanted
+  AI-assisted writing to orient toward without claiming the model was human;
+  and
+- the **Storyteller Engine**, which synthesized several approaches to narrative
+  structure, meaning, performance, transformation, and audience contract.
+
+Their historical bodies remain unchanged. The shelf's present-day README and
+provenance receipt record the SoulMode-to-Teacat rebrand, source credits, and
+the limits of the frameworks' scientific and interpretive claims.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

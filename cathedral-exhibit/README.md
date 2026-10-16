@@ -84,6 +84,19 @@ for a documented tool-mediated process: model calls could propose and evaluate
 edits, host code could apply accepted changes, and Hoppy retained authority
 over permissions and deployment.
 
+## Fourth restored shelf: Rapid Archival Anchoring
+
+The [Rapid Archival Anchoring](rapid-archival-anchoring/README.md) shelf
+preserves an early Cathedral intake method for saving time-sensitive records
+without pretending that rapid capture proves authenticity. It includes the
+historical standard byte for byte, its reusable metadata header, and a
+present-day explanation separating the old workflow-status ladder from
+Discoball's P1–P5 provenance scale.
+
+The associated Grok process transcript and underlying X posts are not included
+in this shelf. The method is presented as provenance infrastructure, not as
+automatic validation of every record created under it.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

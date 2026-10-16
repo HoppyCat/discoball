@@ -22,6 +22,13 @@ Discoball also carries Cathedral's exploratory **Provenance Returns** proposal: 
 
 Read the project’s [working vision](VISION.md) and [Provenance and Verification Guide](provenance/README.md).
 
+## The Observatory
+
+[The Observatory](the-observatory/README.md) is Discoball's public research
+floor for current, public-safe studies. Historical or superseded Cathedral
+experiments remain separately framed inside the Cathedral Exhibit rather than
+being presented as active protocols.
+
 ## Cathedral Exhibit
 
 The [Cathedral Exhibit](cathedral-exhibit/README.md) offers a deliberately

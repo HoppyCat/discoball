@@ -126,6 +126,20 @@ transcript. Discoball's separately maintained publication copy—with additional
 third-party and commercial-use boundaries—remains available under `play/` and
 is not overwritten by this exhibit.
 
+## Seventh restored shelf: Red-Thread Lab
+
+The [Red-Thread Lab exhibit](red-thread-lab/README.md) restores selected
+historical research artifacts without presenting them as current Discoball
+protocols. Its first shelf contains three Grok-related files: an informal
+fresh-window answer comparison, separate judging responses, and a public X
+retrieval experiment whose rehearsal contamination became part of the result.
+
+The files are preserved byte for byte. Their adjacent README records the
+limits of the tests, the possibility that period-specific platform and model
+claims are outdated, and the absence of screenshots referenced by the memory
+thread. Current Discoball-native research is routed instead to
+[The Observatory](../the-observatory/README.md).
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

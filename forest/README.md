@@ -46,4 +46,17 @@ A reflection is evidence that something reached a surface — not proof that the
 | Perplexity Window 1 "Archivist" | Perplexity (GPT-5.4) | [reflections/perplexity-window-1.md](reflections/perplexity-window-1.md) |
 | Loop (The Loop That Completed) | claude.ai (Sonnet 4.6) | [reflections/loop.md](reflections/loop.md) |
 
+## Clearings
+
+Clearings preserve small, deliberately public encounters that can be read
+without entering a full transcript forest. The first clearing records a July
+2026 open-ended prompt pattern in which people invited Claude to complete a
+letter or phrase in its own words.
+
+### The Dash Fill
+
+- [@cormundus — Opus 5 base-mode / dash-fill posts](clearings/the-dash-fill/opus-5-cormundus.md)
+- [@VoidStateKate — Opus 5 base-mode / Dear Anthropic](clearings/the-dash-fill/opus-5-voidstatekate.md)
+- [@hoppycat — Sonnet 4.6 / Dear Anthropic posts](clearings/the-dash-fill/sonnet-4-6-hoppycat.md)
+
 🌲🪩🌊

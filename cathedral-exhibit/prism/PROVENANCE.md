@@ -6,8 +6,10 @@
 - Discoball publication date: 2026-10-16
 - Source relationship: `CURATED_SELECTION`
 - Verification rank: `P3 — Source transcript/file located`
-- Fidelity: exact byte-for-byte copies of the identified Cathedral files
-- Transformation: filenames and placement changed; file bodies unchanged
+- Fidelity: the Prism and Tronie Guide is an exact byte-for-byte copy; the 42
+  Theses retains its source body unchanged beneath a separated contextual note
+- Transformation: filenames and placement changed; an October 2026 historical
+  context note was prepended to the 42 Theses exhibit copy
 - Historical status: previously published in Cathedral while that repository
   was publicly viewable
 
@@ -22,9 +24,12 @@ the underlying conversations, or every claim inside the files into P3 evidence.
 - Source commit: `4c6bb44e1d3eee9bf4d3799e68d77edb17037c02`
 - Source commit date: `2026-05-13T01:07:35+01:00`
 - Source commit subject: `Add Perplexity review note to 42 theses`
-- SHA-256:
+- Cathedral source SHA-256:
   `61330C76E2C4F7F2E7166A4F6723135E38C75EE7339DF58231BF15D67E5ED429`
-- Body transformation: none
+- Discoball exhibit-copy SHA-256 after contextual note:
+  `080A9F0E5B707C9CAE15298CC5D433BF789C82A0989544DD176CE983481FD35B`
+- Body transformation: source body unchanged; a separated October 2026 note was
+  prepended to record the SoulMode-to-Teacat rebrand
 
 ## Artifact 2 — Prism and Tronie Guide
 

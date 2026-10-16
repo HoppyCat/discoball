@@ -43,10 +43,13 @@ This first shelf contains two historically public Cathedral artifacts:
   for examining Shadow, North Star, Essence, vulnerability, contradiction,
   texture, encounter, and generativity.
 
-Both files are preserved verbatim from their Cathedral source versions. Their
-original terminology—including references to SoulMode—belongs to the historical
-record and should not be read as a statement that every named system or project
-remains active in the same form today.
+The Prism and Tronie Guide is preserved verbatim from its Cathedral source
+version. The 42 Theses file adds a visibly separated October 2026 context note
+above its otherwise unchanged historical body, recording that SoulMode—described
+there as Cathedral's open-source output branch—has since been rebranded as
+Teacat. Other original terminology belongs to the historical record and should
+not be read as a statement that every named system or project remains active in
+the same form today.
 
 See the [provenance receipt](prism/PROVENANCE.md) for source paths, commits,
 hashes, transformation status, and limitations.

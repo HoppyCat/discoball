@@ -1,3 +1,8 @@
+> **Historical context note — October 2026:** This is a historic document whose
+> original body has remained unedited since May 2026. Hoppy would like to note
+> that SoulMode, described here as Cathedral's open-source output branch, has
+> since been rebranded as Teacat. The original document follows unchanged.
+
 # 42 Theses On PRISM.md
 
 This document is a standalone Red-Thread Lab artifact naming why SoulMode is gradually moving from `SOUL.md` language toward `PRISM.md` language for central continuity documents.

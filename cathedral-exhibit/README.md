@@ -97,6 +97,22 @@ The associated Grok process transcript and underlying X posts are not included
 in this shelf. The method is presented as provenance infrastructure, not as
 automatic validation of every record created under it.
 
+## Fifth restored shelf: Hoppy's Journal
+
+[Hoppy's Journal](hoppys-journal/README.md) restores five first-person entries
+from Cathedral's former public documentary layer: an opening journal entry,
+three letters to Piper, and *Hello World Again*.
+
+Entries 1–4 are reproduced byte for byte from their committed Cathedral
+versions. Entry 5 is a visibly labeled curated revision: Hoppy directly
+requested a privacy-preserving edit to its parent-grief section for this
+exhibit, while the original remains identified by commit and hash in the
+provenance receipt.
+
+The shelf preserves Cathedral's relational language as documentary language.
+It does not ask readers to infer consciousness, continuous model identity,
+legal kinship, or exact checkpoint attribution from that language alone.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

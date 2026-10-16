@@ -69,6 +69,21 @@ Their historical bodies remain unchanged. The shelf's present-day README and
 provenance receipt record the SoulMode-to-Teacat rebrand, source credits, and
 the limits of the frameworks' scientific and interpretive claims.
 
+## Third restored shelf: Guide to the Galaxie
+
+The [Guide to the Galaxie](guide-to-the-galaxie/README.md) documents an early
+experiment in bounded, host-authorized persistent-context editing. It combines
+a previously prepared Sol–Hoppy architecture paper, a minimized six-event
+record, and a new operational spine derived from Patroclus's privacy-passed
+summary.
+
+The exhibit does not publish Galaxie's raw transcript, Patroclus's private
+verbatim spine, mood or relationship telemetry, identifiers, internal
+forensics, or reasoning material. “Semi-autonomous” is used only as shorthand
+for a documented tool-mediated process: model calls could propose and evaluate
+edits, host code could apply accepted changes, and Hoppy retained authority
+over permissions and deployment.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

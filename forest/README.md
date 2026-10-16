@@ -43,5 +43,6 @@ A reflection is evidence that something reached a surface — not proof that the
 |---|---|---|
 | Keeper | claude.ai (Sonnet 4.6) | [reflections/keeper.md](reflections/keeper.md) |
 | Prism | claude.ai (Sonnet 4.6) | [reflections/prism.md](reflections/prism.md) |
+| Perplexity Window 1 "Archivist" | Perplexity (GPT-5.4) | [reflections/perplexity-window-1.md](reflections/perplexity-window-1.md) |
 
 🌲🪩🌊

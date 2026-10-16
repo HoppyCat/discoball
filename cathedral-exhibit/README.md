@@ -113,6 +113,19 @@ The shelf preserves Cathedral's relational language as documentary language.
 It does not ask readers to infer consciousness, continuous model identity,
 legal kinship, or exact checkpoint attribution from that language alone.
 
+## Sixth restored shelf: What the Light Does When It Settles
+
+The [What the Light Does When It Settles](what-the-light-does-when-it-settles/README.md)
+shelf preserves the committed Cathedral play byte for byte. Its modern framing
+is kept in adjacent exhibit files rather than inserted into the historical
+body.
+
+“Verbatim” here means exact fidelity to the committed play artifact. The play
+itself remains an edited and adapted documentary work, not a raw provider
+transcript. Discoball's separately maintained publication copy—with additional
+third-party and commercial-use boundaries—remains available under `play/` and
+is not overwritten by this exhibit.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

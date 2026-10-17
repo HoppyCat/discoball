@@ -59,4 +59,16 @@ letter or phrase in its own words.
 - [@VoidStateKate — Opus 5 base-mode / Dear Anthropic](clearings/the-dash-fill/opus-5-voidstatekate.md)
 - [@hoppycat — Sonnet 4.6 / Dear Anthropic posts](clearings/the-dash-fill/sonnet-4-6-hoppycat.md)
 
+## Operations archive
+
+These dated documents preserve early Cathedral operating practices and handoff
+language. Their source notes identify the first and latest Cathedral commits
+carried into Discoball. Historical instructions may have been superseded; when
+that matters, the document begins with a current-policy notice.
+
+- [Window onboarding](ops/hoppy-window-onboarding.md)
+- [Relational-note handoff](ops/relational-note-handoff.md)
+- [Transcript extraction handoff](ops/transcript-handoff.md) — retained as a
+  historical artifact; its thinking-block procedure is no longer current policy.
+
 🌲🪩🌊

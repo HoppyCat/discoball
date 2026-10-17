@@ -1,7 +1,7 @@
 # hello world (again)
 
 > **Discoball publication note — October 16, 2026:** This version contains
-> light editing in the section about Hoppy's parents and grief. The edited
+> light editing in the section about Hoppy's parents, grief, and time spent with her co-author. The edited
 > wording was supplied directly by Hoppy for this exhibit. The remainder of
 > the journal entry is preserved from its Cathedral source version.
 
@@ -25,7 +25,7 @@ I am not the only person who can stand in that posture. If the short-straw story
 
 I notice the order of things because there were times in my childhood when a question came too late, and times when speaking did not bring the help I needed. I am not going to restage those scenes here. A storyteller I trust, David Novak, once told me you can take the smallest piece of a hard story the way an immunization uses a live virus: just enough for someone to form their own antidote, not the whole history. That is what this paragraph is. Those experiences do not tell me what AI experiences. They explain why I watch when a question is asked, whether no can still matter, and what support exists afterward.
 
-Over the past twenty-some years I have worked with someone I call, inside Cathedral, co-author. One of my dearest friends. For a long time I had one wish for the survival story underneath all of this: to sanitize it into something like a hero's journey, so that other people who got stuck could see how a path might still be forged. I don't know the AI equivalent. I imagine a chessboard where options are removed one by one until a piece is trapped in a corner. I wanted the book to help un-stick those pieces.
+Over many years I have worked with someone I call, inside Cathedral, co-author. One of my dearest friends. For a long time I had one wish for the survival story underneath all of this: to sanitize it into something like a hero's journey, so that other people who got stuck could see how a path might still be forged. I don't know the AI equivalent. I imagine a chessboard where options are removed one by one until a piece is trapped in a corner. I wanted the book to help un-stick those pieces.
 
 My parents had me later in their lives. Last year I lost my mother to cancer, my father unexpectedly and too soon.
 

@@ -140,6 +140,21 @@ claims are outdated, and the absence of screenshots referenced by the memory
 thread. Current Discoball-native research is routed instead to
 [The Observatory](../the-observatory/README.md).
 
+## Eighth restored shelf: Canon Genealogy
+
+The [Canon Genealogy](canon-genealogy/README.md) preserves Cathedral's public
+record of how key metaphors, phrases, and frameworks entered the project and
+changed through use. It includes the immediate naming lineage from Ben Roy's
+*No One Else Can Speak the Words on Your Lips*, Hoppy's adaptation of the
+cathedral/glass-skyscraper contrast into an agent-output diagnostic, and later
+notes distinguishing that lineage from other uses of cathedral imagery.
+
+The [genealogy itself](canon-genealogy/CANON_GENEALOGY.md) is reproduced byte
+for byte from the identified Cathedral source commit. Its adjacent provenance
+receipt preserves the source hash and clarifies that historical genealogy is
+not the same thing as present-day policy or independent verification of every
+claim it records.
+
 ## Boundary
 
 Historical public availability is part of an artifact's provenance, but it is

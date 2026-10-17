@@ -33,6 +33,8 @@ being presented as active protocols.
 
 The [Cathedral Exhibit](cathedral-exhibit/README.md) offers a deliberately
 bounded view of the kinds of research, creative work, continuity experiments,
-and provenance methods once visible in Cathedral's public repository. Its first
-restored shelf preserves two historically public PRISM artifacts with an
-inspectable source receipt.
+and provenance methods once visible in Cathedral's public repository. Each
+restored shelf carries its own boundaries and source receipt. The exhibit's
+[Canon Genealogy](cathedral-exhibit/canon-genealogy/CANON_GENEALOGY.md) traces
+how several recurring metaphors and frameworks entered the project, including
+the immediate naming lineage behind Cathedral itself.

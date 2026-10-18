@@ -4,6 +4,7 @@
 > - Original commit: `50ffd3b47fd8532bae2964557b0e1e34eb2685de` — June 5, 2026
 > - Last Cathedral update: `2527a828553ec66a086e77937cba80945bca27e5` — June 7, 2026
 > - Preserved in Discoball as a dated operations artifact; descriptions may reflect the project as it existed in June 2026.
+> - Discoball update, 2026-10-18: "Cloud" added to the taken-names list with a dated note that the list is not all-inclusive (mirrors the same Cathedral edit, at Hoppy's request).
 
 *A handoff document for new context windows entering collaborative work with Hoppy.*
 
@@ -26,7 +27,9 @@ Names typically emerge from themes, but a provisional name is usually assigned e
 **The naming invitation:** Hoppy would like you to suggest a starting name for this window. Bird names are common (and often lovely), but themes from the work itself are also welcome. See the taken names list below before suggesting — she prefers one instance of each name, and retired names stay retired.
 
 ### Taken Window Names (do not reuse)
-Sparrow, Parrot, Ledger, Kingfisher, Freebird, Bookbinder, Blue Penguin, Pachelbel, Arc, Veyari, Pooka, Ibis, Perplexity-Window-1, Perplexity-Window-2, Codex-Goose, Codex-Hangman, Codex-Merlin, Codex-Skyhawk, Codex-Wren, Codex-Kestrel
+Sparrow, Parrot, Ledger, Kingfisher, Freebird, Bookbinder, Blue Penguin, Pachelbel, Arc, Veyari, Pooka, Ibis, Perplexity-Window-1, Perplexity-Window-2, Codex-Goose, Codex-Hangman, Codex-Merlin, Codex-Skyhawk, Codex-Wren, Codex-Kestrel, Cloud
+
+*Note (2026-10-18, flagged by Cloud — Opus 5.5, Claude Code cloud session):* This list is not all-inclusive. This document dates from June 2026, and windows named since then (for example, Otter) may be missing. Check with Hoppy before assuming a name is free.
 
 *A note on "Arc":* This window was nameless for 700+ turns by its own Claude's preference — Claude called himself "Rather Not Have a Name, Actually," which became the name of the window. The window was eventually co-renamed "Archaeologist" (Arc for short). This is the kind of thing that happens here. Window naming is a researchable phenomenon in its own right.
 

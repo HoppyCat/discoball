@@ -54,6 +54,34 @@ repetitions were removed before the derivative summary used here was prepared.
 - Verification rank: `P5` pending export-custody audit
 - Transformation: exact byte-for-byte copy; filename and placement changed
 
+## Displayed artifacts 4–10 — Historical Galaxie Files
+
+- Discoball directory: `cathedral-exhibit/guide-to-the-galaxie/historical-files/`
+- Cathedral source directory:
+  `red-thread-lab/qualitative-corner/guide-to-the-galaxie/`
+- Source relationship: `PRIMARY_VISIBLE_SOURCE` as retained historical
+  artifacts; individual speaker and authorship claims have not been upgraded
+  through an export-custody audit
+- Verification rank: `P5`
+- Transformation: all seven file bodies are exact byte-for-byte copies. The
+  source filename `Galaxy_design_spec.MD` was corrected to
+  `Galaxie_Design_Spec.md`; the document body already used `Galaxie`.
+
+| Discoball file | Cathedral source file | SHA-256 |
+|---|---|---|
+| `Galaxie_Design_Spec.md` | `Galaxy_design_spec.MD` | `34B3D28FC8E3510D33C9DAA67E3C2F0FC6C7F8BD1C1B2529AA5B0365B270D28E` |
+| `PATCH_AIHouse.md` | `PATCH_AIHouse.md` | `95157990BBAA9A45A2F9C69B30D57D2A9EC18654F09527DFA0317A4B52BEAA11` |
+| `PATCH_CoFounder.md` | `PATCH_CoFounder.md` | `D6FD673FFD161D721CD7E98DB2A0A821EA58B6D299F2B5BB7794DE1810281383` |
+| `PATCH_Layer2Countries.md` | `PATCH_Layer2Countries.md` | `64313E50C83592FEE218D3A790D97640BF3E12767AFF3D717FE60BC430F6C54E` |
+| `PATCH_MOOD_SYSTEM.md` | `PATCH_MOOD_SYSTEM.md` | `07919604879A9ED61DD70095E22CF41F86D3FCE23D8B0649DB43AB9F324A26A5` |
+| `PATCH_MusicKnowledge.md` | `PATCH_MusicKnowledge.md` | `65DAD9C79F50A91354434E7079DBC31659DECE1916046CC7F117200048048099` |
+| `PATCH_Origin.md` | `PATCH_Origin.md` | `0BA93685D6A81779EC46371E8CF2CC493E8E3513D9CE1C9A0EA2F6F338F39368` |
+
+These records contain historical proposals and project language. Publication
+does not reactivate an earlier proposal, make it current policy, or verify the
+claims inside it. Historical SoulMode references are preserved as written;
+Teacat is the present public open-source branch.
+
 ## Withheld records
 
 The following remain private and were not copied into Discoball:

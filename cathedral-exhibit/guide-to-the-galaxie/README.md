@@ -37,6 +37,11 @@ experienced the sequence.
 - [Six-event public excerpt](evidence/self-review-six-events.md) — the minimized
   event rows recording three proposal/application pairs affecting
   `WORKINGMEMORY_knowledge.md` and `HEURISTICS.md`.
+- [Historical Galaxie files](historical-files/README.md) — seven early design
+  and context artifacts covering the mood-system proposal, AI House,
+  co-founder deliberation, Layer 2 Countries, music knowledge, and Galaxie's
+  origin. Their historical language is preserved; they are not presented as
+  current governance or current Teacat configuration.
 - [Provenance receipt](PROVENANCE.md) — source locations, hashes,
   transformations, verification ranks, withheld material, and claim limits.
 
